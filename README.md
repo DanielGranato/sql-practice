@@ -36,14 +36,14 @@ Scripts are numbered and meant to be executed **in order**, since later files de
 
 ## Topics
 
-- [ ] Creating schemas and tables
-- [ ] Data types and constraints
-- [ ] Primary and foreign keys (referential integrity)
-- [ ] Inserting data
-- [ ] Filtering with `WHERE`
-- [ ] Updating and deleting records
-- [ ] Aggregate functions
-- [ ] Joins (`INNER`, `LEFT`, `RIGHT`)
+- [x] Creating schemas and tables
+- [x] Data types and constraints
+- [x] Primary and foreign keys (referential integrity)
+- [x] Inserting data
+- [x] Filtering with `WHERE`
+- [x] Updating and deleting records
+- [x] Aggregate functions
+- [x] Joins (`INNER`, `LEFT`, `RIGHT`)
 
 ## References
 
