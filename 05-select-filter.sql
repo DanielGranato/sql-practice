@@ -15,3 +15,11 @@ WHERE CATEGORIA = "POESIA"
 and not (AUTORIA = "Rupi Kaur" OR AUTORIA = "Gabriel Pedrosa")
 ;
 
+select distinct ID_LIVRO from VENDAS;
+
+select distinct ID_LIVRO from VENDAS
+where ID_VENDEDOR = 1;
+
+select distinct ID_LIVRO from VENDAS
+where ID_VENDEDOR = 1
+order by id_livro;
